@@ -11,6 +11,6 @@
   - To Understand YAML:
     - [YAML Tutorial by CloudBees](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 - MongoDB mac install => `done`
-- MongoDB windows install => `not done`
-- MongoDB in cloud - Atlas => `not done`
-- MongoDB GUI - Compass => `not done`
+- MongoDB windows install => `done`
+- MongoDB in cloud - Atlas => `done`
+- MongoDB GUI - Compass => `done`
