@@ -14,3 +14,7 @@
 - MongoDB windows install => `done`
 - MongoDB in cloud - Atlas => `done`
 - MongoDB GUI - Compass => `done`
+
+## Section 2: Take it up to Heroku - Production (12 Videos)
+
+- Things you need to deploy on Heroku => `not done`
