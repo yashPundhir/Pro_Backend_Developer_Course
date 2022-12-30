@@ -18,3 +18,5 @@
 ## Section 2: Take it up to Heroku - Production (12 Videos)
 
 - Things you need to deploy on Heroku => `not done`
+- Plan your application => `not done`
+- Types of web requests => `not done`
