@@ -15,7 +15,7 @@
 - MongoDB in cloud - Atlas => `done`
 - MongoDB GUI - Compass => `done`
 
-## Section 2: Take it up to Heroku - Production (12 Videos + 1 SandBox)
+## Section 2: Take it up to Heroku - Production (12 Videos + 1 SandBox) (SandBox is Important)
 
 - Things you need to deploy on Heroku => `done`
 - Plan your application => `done`
