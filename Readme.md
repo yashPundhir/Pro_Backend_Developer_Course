@@ -19,4 +19,4 @@
 
 - Things you need to deploy on Heroku => `done`
 - Plan your application => `done`
-- Types of web requests => `not done`
+- Types of web requests => `done`
