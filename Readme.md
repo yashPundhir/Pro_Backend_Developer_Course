@@ -21,4 +21,4 @@
 - Plan your application => `done`
 - Types of web requests => `done`
 - Framework - Express, Koa, Hapi => `done`
-- Starting with package JSON File => `not done`
+- Starting with package.json File => `done`
