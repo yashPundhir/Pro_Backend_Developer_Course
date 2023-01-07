@@ -26,4 +26,4 @@
 - Request Response & Status Code => `done`
 - All Social Routes => `done`
 - Handle the Date Situation => `done`
-- Parameters and Bugs in Route => `not done`
+- Parameters and Bugs in Route => `done`
