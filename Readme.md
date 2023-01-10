@@ -25,5 +25,5 @@
 - My 1st Express App => `done`
 - Request Response & Status Code => `done`
 - All Social Routes => `done`
-- Handle the Date Situation => `incomplete`
-- Parameters and Bugs in Route => ` incomplete`
+- Handle the Date Situation => `done`
+- Parameters and Bugs in Route => `done`
