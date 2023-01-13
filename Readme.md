@@ -10,7 +10,11 @@
     - [What is API by MuleSoft](https://www.mulesoft.com/resources/api/what-is-an-api) => Watch only the video of this article.
   - To Understand YAML:
     - [YAML Tutorial by CloudBees](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
-- MongoDB mac/linux install => `done`
+- MongoDB Mac/Linux Installation => `done`
+  - Installation of MongoDB on Mac and Linux is similar so same video will work for both.
+  - [MongoDB Mac/Linux Installation according to Pro Backend Course](https://www.youtube.com/watch?v=MIByvzueqHQ)
+  - [MongoDB Mac Installation wrt to latest settings](https://www.youtube.com/watch?v=s1WQ0eEpqqg)
+  - `Keep in mind all the key pointers specified in the videos so that margin of error is minimum wrt installation`
 - MongoDB windows install => `done`
 - MongoDB in cloud - Atlas => ``
 - MongoDB GUI - Compass => ``
