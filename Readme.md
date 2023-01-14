@@ -16,6 +16,13 @@
   - [MongoDB Mac Installation wrt to latest settings](https://www.youtube.com/watch?v=s1WQ0eEpqqg)
   - `Keep in mind all the key pointers specified in the videos so that margin of error is minimum wrt installation`
 - MongoDB windows install => `done`
+  - [MongoDB Windows Installation according to Pro Backend Course](https://www.youtube.com/watch?v=sluiQOXKUmQ)
+  - But there are some complexities wrt the Installation video given above. The Current Version of MongoDB that I have installed is 6.0.3 and in this version the Legacy MongoDB Shell is unavailable. So a new and enhanced MongoDB Shell aka `mongosh` need to be installed separately so that the MongoDB Servers could run properly.
+  - [MongoDB Server Community Edition Download Link](https://www.mongodb.com/try/download/community)
+  - [MongoDB Server Installation Docs](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
+  - [MongoDB Shell aka `mongosh` Download Link](https://www.mongodb.com/try/download/shell)
+  - [MongoDB Shell aka `mongosh` Docs](https://www.mongodb.com/docs/mongodb-shell/)
+  - [MongoDB Shell aka `mongosh` Installation Docs](https://www.mongodb.com/docs/mongodb-shell/install/)
 - MongoDB in cloud - Atlas => ``
 - MongoDB GUI - Compass => ``
 
