@@ -60,7 +60,23 @@
 ---
 ## Section 2: Take it up to Heroku - Production (12 Videos + 1 SandBox) (SandBox is Important)
 
-- Things you need to deploy on Heroku => ``
+- Things you need to deploy on Heroku => `done`
+  - Basic overview of the Entire Section
+  - Hitesh Sir is using `Heroku` to push the application to the production as `Free Tier` was available at that time.
+  - But now as `Heroku's Free Tier has ended` few other options can be considered to Push Application to the production instead of Heroku
+  - Such few alternatives of Heroku are: 
+    - [Cyclic](https://www.cyclic.sh/)
+      - Free Tier is available with lots of features
+    - [Railway](https://railway.app/)
+      - Free Tier is available with less features
+    - [Render](https://render.com/)
+      - Free Tier is available with functionality similar to Heroku
+    - [Digital Ocean](https://www.digitalocean.com/)
+      - Free Tier is not available but Paid Version is also not that much costly
+      - This platform is very good for Professional Applications Deployment
+  - [Application Deployment on Render, Railway & Cyclic](https://www.youtube.com/watch?v=MusIvEKjqsc)
+    - This video is helpful as it gives the basic introduction as well as the deployment steps for each Platform (Render, Railway & Cyclic)
+---
 - Plan your application => ``
 - Types of web requests => ``
 - Framework - Express, Koa, Hapi => ``
