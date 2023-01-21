@@ -77,7 +77,16 @@
   - [Application Deployment on Render, Railway & Cyclic](https://www.youtube.com/watch?v=MusIvEKjqsc)
     - This video is helpful as it gives the basic introduction as well as the deployment steps for each Platform (Render, Railway & Cyclic)
 ---
-- Plan your application => ``
+- Plan your application => `done`
+  - This video is all about planning the entire flow of the application using the `Mind Mapping Tool`
+  - `Miro` is the Mindmapping Tool that I have used:
+    - [Miro](https://miro.com/mind-map/): Just Sign In & start drawing the Mind Map to plan the flow of the application
+    - Imp shortcuts of Miro:
+      - Scroll Up to Zoom in
+      - Scroll Down to Zoom Out
+      - Right Click and Drag to Move within the Drawing Space
+      - Click on the Miro Icon in the top left corner to exit the drawing space
+      - Click on the `?` Icon in the bottom right corner to access the tutorials
 - Types of web requests => ``
 - Framework - Express, Koa, Hapi => ``
 - Starting with package.json File => ``
