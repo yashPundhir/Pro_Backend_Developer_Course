@@ -87,9 +87,13 @@
       - Right Click and Drag to Move within the Drawing Space
       - Click on the Miro Icon in the top left corner to exit the drawing space
       - Click on the `?` Icon in the bottom right corner to access the tutorials
-- Types of web requests => ``
-- Framework - Express, Koa, Hapi => ``
-- Starting with package.json File => ``
+---
+- Types of web requests => `done`
+---
+- Framework - Express, Koa, Hapi => `done`
+---
+- Starting with package.json File => `done`
+---
 - My 1st Express App => ``
 - Request Response & Status Code => ``
 - All Social Routes => ``
