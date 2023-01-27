@@ -96,7 +96,9 @@
 ---
 - My 1st Express App => `done`
 ---
-- Request Response & Status Code => ``
+- Request Response & Status Code => `done`
+  - [Explanation about HTTP Cookies](https://www.youtube.com/watch?v=rdVPflECed8&t=181s)
+---
 - All Social Routes => ``
 - Handle the Date Situation => ``
 - Parameters and Bugs in Route => ``
