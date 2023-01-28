@@ -101,5 +101,6 @@
 ---
 - All Social Routes => `done`
 ---
-- Handle the Date Situation => ``
+- Handle the Date Situation => `done`
+---
 - Parameters and Bugs in Route => ``
