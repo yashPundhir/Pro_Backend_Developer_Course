@@ -99,6 +99,7 @@
 - Request Response & Status Code => `done`
   - [Explanation about HTTP Cookies](https://www.youtube.com/watch?v=rdVPflECed8&t=181s)
 ---
-- All Social Routes => ``
+- All Social Routes => `done`
+---
 - Handle the Date Situation => ``
 - Parameters and Bugs in Route => ``
