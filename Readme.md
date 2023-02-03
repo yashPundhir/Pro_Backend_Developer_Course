@@ -58,7 +58,7 @@
   - This video is imp as it gives the overview of how to work with our databases using a GUI (MongoDB Compass)
   - How to connect MongoDB Compass to a MongoDB Atlas Cluster => 2:17 to 5:00
 ---
-## Section 2: Take it up to Heroku - Production (12 Videos + 1 SandBox) (SandBox is Important)
+## Section 2: Take it up to Heroku - Production (12 Videos + 1 SandBox) (SandBox is given only for reference)
 
 - Things you need to deploy on Heroku => `done`
   - Basic overview of the Entire Section
@@ -103,4 +103,11 @@
 ---
 - Handle the Date Situation => `done`
 ---
-- Parameters and Bugs in Route => ``
+- Parameters and Bugs in Route => `done`
+---
+- Pushing app to HEROKU => `done`
+---
+- Debug Social App in Production => `done`
+---
+- Social App - Sandbox => `My code is similar to Hitesh Sir's Code`
+---
