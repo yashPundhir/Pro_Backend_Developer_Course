@@ -118,3 +118,5 @@
 ---
 - Nodemon ext & YAML Docs => `done`
 ---
+- Authentication token for swagger docs => `done`
+---
