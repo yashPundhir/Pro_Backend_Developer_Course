@@ -120,3 +120,5 @@
 ---
 - Authentication token for swagger docs => `done`
 ---
+- Docs for HTTP Methods Swagger => `done`
+---
