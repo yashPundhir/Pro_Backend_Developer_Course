@@ -124,3 +124,5 @@
 ---
 - A new documentation centric project => `done`
 ---
+- Setup Information - Swagger => `done`
+---
