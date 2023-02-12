@@ -126,3 +126,5 @@
 ---
 - Setup Information - Swagger => `done`
 ---
+- Authentication and Authorization - Swagger => `done`
+---
