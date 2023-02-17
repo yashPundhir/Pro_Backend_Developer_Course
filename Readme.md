@@ -130,3 +130,5 @@
 ---
 - String based GET Request - Swagger => `done`
 ---
+- Handling objects - Swagger => `done`
+---
