@@ -11,6 +11,7 @@
     - [What is API by MuleSoft](https://www.mulesoft.com/resources/api/what-is-an-api) => Watch only the video of this article.
   - To Understand YAML:
     - [YAML Tutorial by CloudBees](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
+    - [YAML Crash Course by Hitesh Sir](https://www.youtube.com/watch?v=9BGWtTahGnw)
 ---
 - MongoDB Mac/Linux Installation => `done`
   - Installation of MongoDB on Mac and Linux is similar so same video will work for both.
