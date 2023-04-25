@@ -150,3 +150,5 @@
 
 - Topics covered till Section 3 in Backend => `done`
 ---
+- Hiding Secrets in Backend => `done`
+---
