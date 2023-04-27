@@ -116,6 +116,9 @@
 ## Section 3: Swagger Docs (15 Videos + 1 SandBox) (SandBox is given only for reference)
 
 - What is Swagger & API Docs => `done`
+
+  - [Specification Guidelines](https://swagger.io/specification/)
+  - [**Basic Structure**](https://swagger.io/docs/specification/basic-structure/)
 ---
 - Nodemon ext & YAML Docs => `done`
 ---
