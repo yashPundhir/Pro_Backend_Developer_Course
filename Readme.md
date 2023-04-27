@@ -160,4 +160,6 @@
 - Why we need Mongoose - ODM => `done`
 ---
 - Pro DB Modeling Tools => `done`
-----
+---
+- Creating Model for Auth Systems
+---
