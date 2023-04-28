@@ -90,6 +90,8 @@
       - Click on the `?` Icon in the bottom right corner to access the tutorials
 ---
 - Types of web requests => `done`
+
+  - [Types of Web Requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 ---
 - Framework - Express, Koa, Hapi => `done`
 ---
@@ -98,6 +100,8 @@
 - My 1st Express App => `done`
 ---
 - Request Response & Status Code => `done`
+
+  - [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
   - [Explanation about HTTP Cookies](https://www.youtube.com/watch?v=rdVPflECed8&t=181s)
 ---
 - All Social Routes => `done`
