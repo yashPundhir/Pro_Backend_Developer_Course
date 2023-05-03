@@ -169,5 +169,7 @@
 ---
 - Pro DB Modeling Tools => `done`
 ---
-- Creating Model for Auth Systems
+- Creating Model for Auth Systems => `done`
+---
+- Creating Basic Structure for auth systems => `done`
 ---
