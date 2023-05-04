@@ -177,3 +177,5 @@
 ---
 - Registering a User in Auth System => `done`
 ---
+- DataBase Connection in Auth System => `done`
+---
