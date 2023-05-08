@@ -129,6 +129,10 @@
   - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
   - [swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc) : Recommended when writing API Docs on top of every Route.
   - [yamljs](https://www.npmjs.com/package/yamljs)
+  
+  - To Understand YAML:
+    - [YAML Tutorial by CloudBees](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
+    - [YAML Crash Course by Hitesh Sir](https://www.youtube.com/watch?v=9BGWtTahGnw)
 ---
 - Authentication token for swagger docs => `done`
 ---
