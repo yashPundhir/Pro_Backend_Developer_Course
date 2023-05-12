@@ -205,3 +205,5 @@
 
 - Why people face issue in image upload => `done`
 ---
+- Cloudinary & EJS => `done`
+---
