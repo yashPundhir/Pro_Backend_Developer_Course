@@ -213,3 +213,5 @@
 ---
 - Biggest Confusion in Front-End Forms => `done`
 ---
+- Handling Images in Forms => `done`
+---
