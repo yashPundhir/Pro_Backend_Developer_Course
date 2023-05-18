@@ -217,3 +217,5 @@
 ---
 - Handling Images in Forms part 2 => `done`
 ---
+- Upload Image to Cloudinary or other providers => `done`
+---
