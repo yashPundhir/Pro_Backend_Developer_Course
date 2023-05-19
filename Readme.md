@@ -220,3 +220,7 @@
 - Upload Image to Cloudinary or other providers => `done`
 ---
 - Handling Multiple files & Uploading them => `done`
+---
+
+## Section 6: Theory & Razorpay (7 Videos)
+
