@@ -228,3 +228,5 @@
 ---
 - Getting a Logger - MORGAN => `done`
 ---
+- Error Handler & Promises => `done`
+---
