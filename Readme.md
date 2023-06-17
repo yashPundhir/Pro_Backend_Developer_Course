@@ -240,3 +240,6 @@
 --- 
 
 ## Section 7: Big E-Commerce App Starts (6 Videos)
+
+- Project Requirement => `done`
+---
