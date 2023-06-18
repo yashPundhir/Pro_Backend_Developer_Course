@@ -244,6 +244,8 @@
 - Project Requirement => `done`
 ---
 - User Modeling & File Structure => `done`
---- 
+---
 - Product Model Discussion => `done`
---- 
+---
+- Order Model Discussion => `done`
+---
