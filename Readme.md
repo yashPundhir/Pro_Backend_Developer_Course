@@ -251,3 +251,5 @@
 ---
 - How Forgot Password Feature Works => `done`
 ---
+- Functions in User Model & Hooks => `done`
+---
