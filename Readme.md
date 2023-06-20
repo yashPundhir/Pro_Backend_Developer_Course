@@ -253,3 +253,5 @@
 ---
 - Functions in User Model & Hooks => `done`
 ---
+
+## Section 8: Basic Config & Imports (6 Videos)
