@@ -255,3 +255,6 @@
 ---
 
 ## Section 8: Basic Config & Imports (6 Videos)
+
+- Getting Files & Folders Ready => `done`
+---
