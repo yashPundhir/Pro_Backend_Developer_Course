@@ -264,3 +264,5 @@
 --- 
 - Injecting Docs & Middleware => `done`
 ---
+- Custom Error Handlers => `done`
+---
