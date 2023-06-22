@@ -262,3 +262,5 @@
 ---
 - Routes & Controllers in Dummy => `done`
 --- 
+- Injecting Docs & Middleware => `done`
+---
