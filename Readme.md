@@ -268,3 +268,8 @@
 ---
 - The Big Promise => `done`
 --- 
+
+## Section 9: User Model & Signup (12 Videos)
+
+- Creating a User Model & Validator => `done`
+--- 
