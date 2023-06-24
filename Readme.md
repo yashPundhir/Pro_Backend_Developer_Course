@@ -273,3 +273,5 @@
 
 - Creating a User Model & Validator => `done`
 --- 
+- Password Encryption & Mongoose Prototypes => `done`
+--- 
