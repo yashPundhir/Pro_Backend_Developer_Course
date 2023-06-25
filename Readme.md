@@ -279,3 +279,5 @@
 ---
 - Creating JWT Tokens => `done`
 ---
+- Forgot Password & Crypto Hashing => `done`
+---
