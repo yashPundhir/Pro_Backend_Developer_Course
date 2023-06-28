@@ -281,3 +281,5 @@
 ---
 - Forgot Password & Crypto Hashing => `done`
 ---
+- User Routes & Postman => `done`
+--- 
