@@ -282,4 +282,6 @@
 - Forgot Password & Crypto Hashing => `done`
 ---
 - User Routes & Postman => `done`
---- 
+---
+- Signup a User & Cookies => `done`
+---
