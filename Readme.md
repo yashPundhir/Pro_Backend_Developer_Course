@@ -285,3 +285,5 @@
 ---
 - Signup a User & Cookies => `done`
 ---
+- DataBase Connection => `done`
+---
