@@ -287,3 +287,5 @@
 ---
 - DataBase Connection => `done`
 ---
+- Testing the User Signup with Postman => `done`
+--- 
