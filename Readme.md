@@ -291,3 +291,5 @@
 ---
 - Handling Image Upload => `done`
 ---
+- Testing Photo Upload & User Signup => `done`
+---
