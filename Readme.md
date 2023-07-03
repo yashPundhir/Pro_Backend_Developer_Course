@@ -300,3 +300,5 @@
 
 - Login Route & Controller => `done`
 ---
+- Logout Route & Controller => `done`
+---
