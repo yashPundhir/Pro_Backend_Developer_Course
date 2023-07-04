@@ -304,3 +304,5 @@
 ---
 - Send Email from Node => `done`
 ---
+- Forgot Password Controller => `done`
+---
