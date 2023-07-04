@@ -302,3 +302,5 @@
 ---
 - Logout Route & Controller => `done`
 ---
+- Send Email from Node => `done`
+---
