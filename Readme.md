@@ -306,3 +306,5 @@
 ---
 - Forgot Password Controller => `done`
 ---
+- Reset Password Controller & Routes => `done`
+---
