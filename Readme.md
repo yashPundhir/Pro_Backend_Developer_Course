@@ -308,3 +308,5 @@
 ---
 - Reset Password Controller & Routes => `done`
 ---
+- Middleware - Injecting Information => `done`
+---
