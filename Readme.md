@@ -312,4 +312,5 @@
 ---
 - User Dashboard Controller & Routes => `done`
 ---
-
+- Update the Password for a User => `done`
+---
