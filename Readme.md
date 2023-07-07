@@ -316,3 +316,5 @@
 ---
 - Updating the User Profile => `done`
 ---
+- User, Admin, Manager & More Roles => `done`
+---
