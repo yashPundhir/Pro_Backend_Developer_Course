@@ -314,3 +314,5 @@
 ---
 - Update the Password for a User => `done`
 ---
+- Updating the User Profile => `done`
+---
