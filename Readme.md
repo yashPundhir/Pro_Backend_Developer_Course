@@ -318,3 +318,5 @@
 ---
 - User, Admin, Manager & More Roles => `done`
 ---
+- Manager only Routes => `done`
+---
