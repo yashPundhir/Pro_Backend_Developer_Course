@@ -320,3 +320,5 @@
 ---
 - Manager only Routes => `done`
 ---
+- Admin gets a single user => `done`
+---
