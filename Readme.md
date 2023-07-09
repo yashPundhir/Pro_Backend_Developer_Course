@@ -322,3 +322,5 @@
 ---
 - Admin gets a single user => `done`
 ---
+- Admin can update any user => `done`
+---
