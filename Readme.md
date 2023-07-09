@@ -324,3 +324,5 @@
 ---
 - Admin can update any user => `done`
 ---
+- Admin can delete a user now => `done`
+---
